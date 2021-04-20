@@ -10,7 +10,7 @@ AGN Light Curve
 2020-Now: [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Astrophysics  
 2016-2020: [Xidian University](https://en.xidian.edu.cn/), Radio wave propagation and antenna
 <details>
-<summary>## Recommended articles</summary>  
+<summary>Recommended articles</summary>  
   
 ### Accretion theory of compact objects
 [Black holes in binary systems. Observational appearance](https://ui.adsabs.harvard.edu/link_gateway/1973A%26A....24..337S/ADS_PDF)(The most important article of accretion theory)  
