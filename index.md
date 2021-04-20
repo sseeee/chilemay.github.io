@@ -9,7 +9,7 @@ AGN Light Curve
 ## Eduction
 2020-Now: [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Astrophysics  
 2016-2020: [Xidian University](https://en.xidian.edu.cn/), Radio wave propagation and antenna
-
+[TOC]
 ## Recommended articles  
 ### Accretion theory of compact objects  
 [Black holes in binary systems. Observational appearance](https://ui.adsabs.harvard.edu/link_gateway/1973A%26A....24..337S/ADS_PDF)(The most important article of accretion theory)  
@@ -25,13 +25,14 @@ AGN Light Curve
 
 ### Event	Horizon	Telescope
 
-### neutron star  
+### Neutron star  
 
 ### Supernovae and Cosmology  
 
 ### FRB  
 
-### $\gamma$ray burst
+### Gamma-ray burst  
+### Gravitational wave and its electromagnetic counterpart
 ## Some books  
 [An Introduction to Radio Astronomy](books/An Introduction to Radio Astronomy.pdf)  
 [Tools of Radio Astronomy](books/Tools of Radio Astronomy.pdf)  
