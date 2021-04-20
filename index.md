@@ -4,12 +4,12 @@
 <img src="pictures/zdt2.jpg" alt="my" style="zoom:20%;" />
 
 ## Research Interest
-AGN Light Curve
+AGN
 
 ## Eduction
 2020-Now: [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Astrophysics  
 2016-2020: [Xidian University](https://en.xidian.edu.cn/), Radio wave propagation and antenna
-[TOC]
+
 ## Recommended articles  
 ### Accretion theory of compact objects  
 [Black holes in binary systems. Observational appearance](https://ui.adsabs.harvard.edu/link_gateway/1973A%26A....24..337S/ADS_PDF)(The most important article of accretion theory)  
@@ -33,7 +33,23 @@ AGN Light Curve
 
 ### Gamma-ray burst  
 ### Gravitational wave and its electromagnetic counterpart
-## Some books  
+## Some books or tips about astronomy
 [An Introduction to Radio Astronomy](books/An Introduction to Radio Astronomy.pdf)  
 [Tools of Radio Astronomy](books/Tools of Radio Astronomy.pdf)  
-[Common Mistakes in Writing Astronomy and Physics Literature in English](https://arxiv.org/ftp/arxiv/papers/1011/1011.5973.pdf)
+[Common Mistakes in Writing Astronomy and Physics Literature in English](books/A Resource for Creating a Website to Promote Your Scientific Work.pdf)  
+[A Resource for Creating a Website to Promote Your Scientific Work](books/A Resource for Creating a Website to Promote Your Scientific Work.pdf)  
+[Astronomy and Astrophysics Library](books/ASTRONOMY AND ASTROPHYSICS LIBRARY.pdf)  
+[Astronomy’s Quest](books/Astronomy’s Quest.pdf)  
+[Cosmology for the Curious](books/Cosmology for the Curious.pdf)  
+[High-Energy-Density Physics](books/High-Energy-Density Physics.pdf)  
+[The Birth Of Science](books/The Birth Of Science.pdf)
+
+## Light readings  
+[pale blue dot_a vision of the human future in space](books/pale blue dot_a vision of the human future in space.pdf)  
+[Cosmos](books/Cosmos.pdf)  
+[Radiative processes in astrophysics](books/Radiative processes in astrophysics.pdf)  
+[Hubble Focus Galaxies through Space and Time](books/Hubble Focus Galaxies through Space and Time.pdf)  
+[Science Advice to NASA Conflict, Consensus, Partnership, Leadership](books/Science Advice to NASA Conflict, Consensus, Partnership, Leadership.pdf)  
+[Beyond Earth A Chronicle of Deep Space Exploration](books/Beyond Earth A Chronicle of Deep Space Exploration.pdf)  
+
+
