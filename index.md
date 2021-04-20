@@ -1,6 +1,5 @@
 # Welcome to my homepage!
-## Zhou Dongtao [weibo](https://weibo.com/u/6032883036/home?wvr=5)
-
+## Zhou Dongtao  
 <img src="pictures/zdt2.jpg" alt="my" style="zoom:20%;" />
 
 ## Research Interest
