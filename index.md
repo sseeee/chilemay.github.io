@@ -10,6 +10,12 @@ AGN Light Curve
 2020-Now: [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Astrophysics  
 2016-2020: [Xidian University](https://en.xidian.edu.cn/), Radio wave propagation and antenna
 
+## recommendation  
+### Accretion theory of compact objects
+[]  
+### 
+
 ## Some books
 [An Introduction to Radio Astronomy](books/An Introduction to Radio Astronomy.pdf)  
 [Tools of Radio Astronomy](books/Tools of Radio Astronomy.pdf)
+[Common Mistakes in Writing Astronomy and Physics Literature in English](https://arxiv.org/ftp/arxiv/papers/1011/1011.5973.pdf)
