@@ -41,14 +41,15 @@ AGN
 [Astronomy’s Quest](books/Astronomy’s Quest.pdf)  
 [Cosmology for the Curious](books/Cosmology for the Curious.pdf)  
 [High-Energy-Density Physics](books/High-Energy-Density Physics.pdf)  
-[The Birth Of Science](books/The Birth Of Science.pdf)
+[The Birth Of Science](books/The Birth Of Science.pdf)  
+[Radiative processes in astrophysics](books/Radiative processes in astrophysics.pdf) 
+[Radiative Processes in High Energy Astrophysics](books/Radiative Processes in High Energy Astrophysics.pdf)
 
 ## Light readings  
 [pale blue dot_a vision of the human future in space](books/pale blue dot_a vision of the human future in space.pdf)  
 [Cosmos](books/Cosmos.pdf)  
-[Radiative processes in astrophysics](books/Radiative processes in astrophysics.pdf)  
 [Hubble Focus Galaxies through Space and Time](books/Hubble Focus Galaxies through Space and Time.pdf)  
 [Science Advice to NASA Conflict, Consensus, Partnership, Leadership](books/Science Advice to NASA Conflict, Consensus, Partnership, Leadership.pdf)  
 [Beyond Earth A Chronicle of Deep Space Exploration](books/Beyond Earth A Chronicle of Deep Space Exploration.pdf)  
-
+[DEATH’S END](books/DEATH’S END.pdf)
 
