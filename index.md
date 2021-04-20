@@ -12,10 +12,11 @@ AGN Light Curve
 
 ## recommendation  
 ### Accretion theory of compact objects
-[]  
+[Black holes in binary systems. Observational appearance] (https://ui.adsabs.harvard.edu/link_gateway/1973A%26A....24..337S/ADS_PDF)  
+
 ### 
 
 ## Some books
 [An Introduction to Radio Astronomy](books/An Introduction to Radio Astronomy.pdf)  
-[Tools of Radio Astronomy](books/Tools of Radio Astronomy.pdf)
+[Tools of Radio Astronomy](books/Tools of Radio Astronomy.pdf)  
 [Common Mistakes in Writing Astronomy and Physics Literature in English](https://arxiv.org/ftp/arxiv/papers/1011/1011.5973.pdf)
