@@ -42,7 +42,7 @@ AGN
 [Cosmology for the Curious](books/Cosmology for the Curious.pdf)  
 [High-Energy-Density Physics](books/High-Energy-Density Physics.pdf)  
 [The Birth Of Science](books/The Birth Of Science.pdf)  
-[Radiative processes in astrophysics](books/Radiative processes in astrophysics.pdf) 
+[Radiative processes in astrophysics](books/Radiative processes in astrophysics.pdf)  
 [Radiative Processes in High Energy Astrophysics](books/Radiative Processes in High Energy Astrophysics.pdf)
 
 ## Light readings  
