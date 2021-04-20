@@ -27,6 +27,7 @@ AGN Light Curve
 <details>  
 <summary>unfold</summary>  
 <pre><code>  
+
 [An Introduction to Radio Astronomy](books/An Introduction to Radio Astronomy.pdf)  
 [Tools of Radio Astronomy](books/Tools of Radio Astronomy.pdf)  
 [Common Mistakes in Writing Astronomy and Physics Literature in English](https://arxiv.org/ftp/arxiv/papers/1011/1011.5973.pdf)  
