@@ -6,5 +6,5 @@
 ## Research Interest
 AGN Light Curve
 ## Eduction
-2020-Now: University of Chinese Academy of Sciences, Astrophysics  
-2016-2020: Xidian University, Radio wave propagation and antenna
+2020-Now: [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Astrophysics  
+2016-2020: [Xidian University](https://en.xidian.edu.cn/), Radio wave propagation and antenna
