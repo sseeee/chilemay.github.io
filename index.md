@@ -51,5 +51,10 @@ AGN
 [Hubble Focus Galaxies through Space and Time](books/Hubble Focus Galaxies through Space and Time.pdf)  
 [Science Advice to NASA Conflict, Consensus, Partnership, Leadership](books/Science Advice to NASA Conflict, Consensus, Partnership, Leadership.pdf)  
 [Beyond Earth A Chronicle of Deep Space Exploration](books/Beyond Earth A Chronicle of Deep Space Exploration.pdf)  
-[DEATH’S END](books/DEATH’S END.pdf)
+[DEATH’S END](books/DEATH’S END.pdf)  
+[地球往事](books/地球往事.pdf)  
+[黑暗森林](books/黑暗森林.pdf)  
+[死神永生](books/死神永生.pdf)  
+[球状闪电](books/球状闪电.pdf)  
+
 
