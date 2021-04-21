@@ -54,7 +54,7 @@ AGN
 [Remembrance of Earth’s Past](books/Remembrance of Earth’s Past.pdf)  
 [The Dark Forest](books/The Dark Forest.pdf)  
 [DEATH’S END](books/DEATH’S END.pdf)  
-[Ball Lightning.pdf](books/Ball Lightning.pdf)  
+[Ball Lightning](books/Ball Lightning.pdf)  
 [地球往事](books/地球往事.pdf)  
 [黑暗森林](books/黑暗森林.pdf)  
 [死神永生](books/死神永生.pdf)  
