@@ -60,4 +60,4 @@ AGN
 [死神永生](books/死神永生.pdf)  
 [球状闪电](books/球状闪电.pdf)  
 [Tuxedo Park](books/Tuxedo Park.pdf)  
-[Engineering cybernetics](H. S. Tsien - Engineering cybernetics-Royal Society of Chemistry (1954).pdf)
+[Engineering cybernetics](books/H. S. Tsien - Engineering cybernetics-Royal Society of Chemistry (1954).pdf)
