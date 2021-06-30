@@ -43,7 +43,8 @@ AGN
 [High-Energy-Density Physics](books/High-Energy-Density Physics.pdf)  
 [The Birth Of Science](books/The Birth Of Science.pdf)  
 [Radiative processes in astrophysics](books/Radiative processes in astrophysics.pdf)  
-[Radiative Processes in High Energy Astrophysics](books/Radiative Processes in High Energy Astrophysics.pdf)
+[Radiative Processes in High Energy Astrophysics](books/Radiative Processes in High Energy Astrophysics.pdf)  
+[射电天文手册](books/射电天文手册.pdf)
 
 ## Light readings  
 [pale blue dot_a vision of the human future in space](books/pale blue dot_a vision of the human future in space.pdf)  
